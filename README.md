@@ -40,4 +40,14 @@ app.put('/users/:id', (req, res) => {
 });
 
 
+app.delete('/users/:id', (req, res) => {
+  const user = users.find(u => u.id === parseInt(req.params.id));
+  if (!user) return res.status(404).send('User not found');
+  const index = users.indexOf(user);
+  users.splice(index, 1);
+  res.json(user);
+});
 
+app.listen(port, () => {
+  console.log(`API listening at http://localhost:${port}`);
+});
