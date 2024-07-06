@@ -5,3 +5,19 @@ nikhil
 const apiKey = 'your_api_key';
 const city = 'London';
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
+
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.use(express.json());
+
+let users = [
+  { id: 1, name: 'John Doe' },
+  { id: 2, name: 'Jane Doe' }
+];
+
+app.get('/users', (req, res) => {
+  res.json(users);
+});
+
