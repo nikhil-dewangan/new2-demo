@@ -1,7 +1,7 @@
 # new2-demo
 This is demo for Git &amp; GitHub Class for new2-demo repository.
 git clone https://github.com/username/repository.git
-nikhil
+nikhil.
 
 const apiKey = 'your_api_key';
 const city = 'London';
