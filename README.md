@@ -39,6 +39,7 @@ app.delete('/users/:id', (req, res) => {
   if (!user) return res.status(404).send('User not found');
   const index = users.indexOf(user);
   users.splice(index, 1);
+  
   res.json(user);
 });
 
