@@ -38,7 +38,27 @@ app.delete('/users/:id', (req, res) => {
   if (!user) return res.status(404).send('User not found');
   const index = users.indexOf(user);
   users.splice(index, 1);
-  
+
+
+  /**
+   * Keeps track of the current dispatcher.
+   */
+  var ReactCurrentDispatcher = {
+    /**
+     * @internal
+     * @type {ReactComponent}
+     */
+    current: null
+  };
+
+  /**
+   * Keeps track of the current batch's configuration such as how long an update
+   * should suspend for if it needs to.
+   */
+  var ReactCurrentBatchConfig = {
+    transition: null
+  };
+
   res.json(user);
 });
 
