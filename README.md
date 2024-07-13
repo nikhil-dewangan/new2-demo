@@ -39,7 +39,6 @@ app.delete('/users/:id', (req, res) => {
   const index = users.indexOf(user);
   users.splice(index, 1);
 
-
   /**
    * Keeps track of the current dispatcher.
    */
