@@ -33,11 +33,7 @@ app.put('/users/:id', (req, res) => {
   res.json(user);
 });
 
-app.delete('/users/:id', (req, res) => {
-  const user = users.find(u => u.id === parseInt(req.params.id));
-  if (!user) return res.status(404).send('User not found');
-  const index = users.indexOf(user);
-  users.splice(index, 1);
+
 
   /**
    * Keeps track of the current dispatcher.
