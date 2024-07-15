@@ -32,8 +32,6 @@ app.put('/users/:id', (req, res) => {
   res.json(user);
 });
 
-
-
   /**
    * Keeps track of the current dispatcher.
    */
