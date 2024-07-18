@@ -10,6 +10,8 @@ let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
 
+ 
+  function with parameter:
   function sayHello(name){
     return `Hello ${name}!`;
   }
