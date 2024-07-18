@@ -10,6 +10,12 @@ let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
 
+  function sayHello(name){
+    return `Hello ${name}!`;
+  }
+
+  console.log(sayHello(Nikhil));
+
 app.get('/users', (req, res) => {
   res.json(users);
 });
