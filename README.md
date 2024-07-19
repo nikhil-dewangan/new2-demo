@@ -11,7 +11,7 @@ let users = [
   { id: 2, name: 'Jane Doe' }
 
  
-  function with parameter:
+ } function with parameter:
   function sayHello(name){
     return `Hello ${name}!`;
   }
