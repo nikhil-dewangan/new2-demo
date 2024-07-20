@@ -6,6 +6,8 @@ nikhil.
 
 app.use(express.json());
 
+in string we use lots of method to use easily strings and their types
+
 let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
