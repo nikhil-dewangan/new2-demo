@@ -12,7 +12,7 @@ let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
 
- 
+ example of :object 
  } function with parameter:
   function sayHello(name){
     return `Hello ${name}!`;
