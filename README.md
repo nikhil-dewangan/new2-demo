@@ -28,6 +28,7 @@ app.get('/users', (req, res) => {
 switch (color):
 
 git -force
+`JSON.stringify(): Converts a JavaScript value to a JSON string.`
 
 
 app.get('/users/:id', (req, res) => {
