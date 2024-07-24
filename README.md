@@ -13,6 +13,7 @@ let users = [
   { id: 2, name: 'Jane Doe' }
 
   git config --list
+  git add ( . ) to select all the things in a one time
 
  example of :object 
  } function with parameter:
