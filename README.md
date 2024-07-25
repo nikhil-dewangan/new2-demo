@@ -11,7 +11,7 @@ in string we use lots of method to use easily strings and their types
 let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
-
+space has key code: 32
   git config --list
   git add ( . ) to select all the things in a one time
 
