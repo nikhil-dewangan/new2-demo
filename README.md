@@ -27,7 +27,7 @@ app.get('/users', (req, res) => {
   res.json(users);
 });
 switch (color):
-
+let form = document.querySelector("form");
 git -force
 `JSON.stringify(): Converts a JavaScript value to a JSON string.`
 
