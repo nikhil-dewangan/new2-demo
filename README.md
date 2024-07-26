@@ -14,7 +14,8 @@ let users = [
 space has key code: 32
   git config --list
   git add ( . ) to select all the things in a one time
-
+array
+object
  example of :object 
  } function with parameter:
   function sayHello(name){
