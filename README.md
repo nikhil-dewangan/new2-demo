@@ -14,6 +14,8 @@ let users = [
 space has key code: 32
   git config --list
   git add ( . ) to select all the things in a one time
+
+  non primitiva
 array
 object
  example of :object 
