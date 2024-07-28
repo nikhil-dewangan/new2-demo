@@ -18,6 +18,10 @@ space has key code: 32
   non primitiva
 array
 object
+
+npm run build
+npm start
+
  example of :object 
  } function with parameter:
   function sayHello(name){
