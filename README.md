@@ -22,6 +22,8 @@ object
 npm run build
 npm start
 
+react element is nothing but this is java script object.
+
  example of :object 
  } function with parameter:
   function sayHello(name){
