@@ -14,6 +14,8 @@ const Title = () =>{
      return ();
 }
 
+const jsxHead = <p>lorem lipsum to control panel and we use this method and control system</p>
+
 let users = [
   { id: 1, name: 'John Doe' },
   { id: 2, name: 'Jane Doe' }
