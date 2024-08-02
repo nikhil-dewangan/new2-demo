@@ -13,6 +13,7 @@ React.createElemnets("",{},"");
 const Title = () =>{
      return ();
 }
+React.createElement("",{},"")
 
 {Title()}
 const jsxHead = <p>lorem lipsum to control panel and we use this method and control system</p>
