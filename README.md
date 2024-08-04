@@ -11,6 +11,7 @@ in string we use lots of method to use easily strings and their types
 React.createElemnets("",{},"");
 
 const Title = () =>{
+<h3>{cusins}</h3>
      return ();
 }
 React.createElement("",{},"")
