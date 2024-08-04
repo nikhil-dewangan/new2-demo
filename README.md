@@ -12,6 +12,7 @@ React.createElemnets("",{},"");
 
 const Title = () =>{
 <h3>{cusins}</h3>
+<Restaurent res-name="Mcdonallads"/>
      return ();
 }
 React.createElement("",{},"")
