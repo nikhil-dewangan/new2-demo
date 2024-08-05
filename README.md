@@ -10,6 +10,7 @@ in string we use lots of method to use easily strings and their types
 
 React.createElemnets("",{},"");
 
+const root = ReactDom.createRoot(document.getElementById());
 const Title = () =>{
 <h3>{cusins}</h3>
 <Restaurent res-name="Mcdonallads"/>
