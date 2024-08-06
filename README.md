@@ -32,6 +32,12 @@ space has key code: 32
 array
 object
 
+cons resData = () => {
+return {
+<h3>{resData.data.cuisins}</h3>
+}
+}
+
 npm run build
 npm start
 
