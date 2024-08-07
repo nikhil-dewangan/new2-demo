@@ -16,6 +16,7 @@ const Title = () =>{
 <Restaurent res-name="Mcdonallads"/>
      return ();
 }
+     we using multiple type of option to taking a data from a back end and cretaed to function and components.
 React.createElement("",{},"")
 
 {Title()}
