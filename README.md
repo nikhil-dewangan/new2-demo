@@ -21,6 +21,8 @@ React.createElement("",{},"")
 
 there are two types of import and exports method.
 
+pyramid of doom.
+
 {Title()}
 {}
 const jsxHead = <p>lorem lipsum to control panel and we use this method and control system</p>
