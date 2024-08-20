@@ -12,6 +12,8 @@ in string we use lots of method to use easily strings and their types
 React.createElemnets("",{},"");
 lifo = last in first out.
 
+react fiber
+
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
 const Title = () =>{
