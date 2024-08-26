@@ -13,6 +13,7 @@ lifo = last in first out.
 react fiber
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
+
 const Title = () =>{
 <h3>{cusins}</h3>
 <Restaurent res-name="Mcdonallads"/>
