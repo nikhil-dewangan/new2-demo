@@ -11,7 +11,6 @@ React.createElemnets("",{},"");
 lifo = last in first out.
 
 react fiber
-
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
 const Title = () =>{
