@@ -14,7 +14,7 @@ setInterval is continuous process()
 react fiber
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
-await
+await()
 
 const Title = () =>{
 <h3>{cusins}</h3>
