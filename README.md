@@ -11,6 +11,8 @@ React.createElemnets("",{},"");
 lifo = last in first out.
 source()
 setInterval is continuous process()
+
+json formateer
 react fiber
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
