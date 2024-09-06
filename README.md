@@ -6,6 +6,7 @@ nikhil.
 app.use(express.json());
 
 in string we use lots of method to use easily strings and their types,
+
 React.createElemnets("",{},"");
 lifo = last in first out.
 source()
