@@ -11,6 +11,7 @@ use easily strings and their types,
 React.createElemnets("",{},"");
 lifo = last in first out.
 source()
+minification
 reduce 
 object structure
 map() = set.map
