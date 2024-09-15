@@ -10,7 +10,7 @@ use easily strings and their types,
 
 
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
-puzzle
+puzzle ()
 new Promise((resolve, reject))=>{
 
 }
