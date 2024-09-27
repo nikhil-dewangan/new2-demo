@@ -8,9 +8,7 @@ app.use(express.json());
 in string we use lots of method to 
 use easily strings and their types,
 
-
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
-
 puzzle ()
 new Promise((resolve, reject))=>{
 trans world
