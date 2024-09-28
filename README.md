@@ -12,7 +12,7 @@ const JSXHead = () =>{return <h1> Hello Git</h1>;};
 puzzle ()
 new Promise((resolve, reject))=>{
 trans world
-}
+} everthing node
 React.createElemnets("",{},"");
 dist contain all the developemnet relted files
 
