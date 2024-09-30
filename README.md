@@ -10,6 +10,7 @@ use easily strings and their types,
 
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
 puzzle ()
+all files
 document object model DOM
 new Promise((resolve, reject))=>{
 trans world
