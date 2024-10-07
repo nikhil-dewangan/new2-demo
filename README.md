@@ -14,6 +14,10 @@ use easily strings and their types,
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
 puzzle ()
 
+point to point topology
+mesh topology n(n-1)/2
+
+
 all files
 document object model DOM
 
