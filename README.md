@@ -12,6 +12,8 @@ in string we use lots of method to
 use easily strings and their types,
 
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
+Session Layer
+Presentation layer()
 puzzle ()
 
 point to point topology
