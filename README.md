@@ -43,6 +43,7 @@ setInterval is continuous process()
 
 json formateer
 react fiber
+
 useEffects()
 const root = ReactDom.createRoot(document.getElementById());
 await()
