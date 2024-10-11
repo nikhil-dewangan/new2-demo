@@ -35,6 +35,7 @@ dist contain all the developemnet relted files
 
 lifo = last in first out.
 source()
+
 minification
 reduce 
 object structure
