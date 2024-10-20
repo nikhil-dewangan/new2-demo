@@ -29,7 +29,7 @@ document object model DOM
 
 new Promise((resolve, reject))=>{
 trans world
-} everthing node
+ } everthing node
 
 React.createElemnets("",{},"");
 dist contain all the developemnet relted files
