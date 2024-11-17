@@ -16,7 +16,7 @@ use easily strings and their types,
 git commit -m "some meaningfull comment"
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
 
-Session Layer
+Session Layer{}
 Presentation layer()
 text.charCodeAt(5)
 
