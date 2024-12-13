@@ -11,7 +11,7 @@ nikhil.
 app.use(express.json());
 
 in string we use lots of method to 
-use easily strings and their types,
+use easily strings and their types
 
 git commit -m "some meaningfull comment"
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
