@@ -13,7 +13,7 @@ app.use(express.json());
 in string we use lots of method to 
 use easily strings and their types
 🔢🔢🔢🔢🔢
-1. Increment
+1. Increment - It has also two type of operator.
 2. Decrement 
 git commit -m "some meaningfull comment"
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
