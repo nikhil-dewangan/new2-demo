@@ -19,7 +19,8 @@ use easily strings and their types
 Visualize call stack
 
 1. Increment - It has also two type of operator.
-2. Decrement 
+2. Decrement
+   
 git commit -m "some meaningfull comment"
 const JSXHead = () =>{return <h1> Hello Git</h1>;};
 
