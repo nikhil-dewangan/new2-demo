@@ -23,7 +23,8 @@ Visualize call stack
 2. Decrement
    
 git commit -m "some meaningfull comment"
-const JSXHead = () =>{return <h1> Hello Git</h1>;};
+const JSXHead = 
+() => {return <h1> Hello Git</h1>;} ;
 
 Session Layer{}
 root.appendChild(heading)
