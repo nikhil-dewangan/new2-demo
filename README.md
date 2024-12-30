@@ -15,7 +15,7 @@ Js is single threade singale langauage
 in string we use lots of method to 
 
 use easily strings and their types
-🔢🔢
+DSA: 🔢🔢
 
 Visualize call stack
 
