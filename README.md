@@ -11,8 +11,8 @@ nikhil.
 app.use(express.json());
 ({Parcel,vite,Bundler})
 
-Js is single threade singale langauage
-in string we use lots of method to 
+1. Js is single threade singale langauage
+2. in string we use lots of method to 
 
 use easily strings and their types
 DSA: 🔢🔢
