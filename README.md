@@ -15,7 +15,7 @@ app.use(express.json());
 2. in string we use lots of method to 
 
 use easily strings and their types
-DSA: 🔢🔢
+DSA: Anylanguage, English, Mathematical Expression.
 
 Visualize call stack
 
