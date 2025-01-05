@@ -32,6 +32,8 @@ git commit -m "some meaningfull comment"
 const JSXHead = 
 () => {return <h1> Hello Git</h1>;} ;
 
+console.log(jUser[mySym])
+
 Session Layer{}
 root.appendChild(heading)
 
