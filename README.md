@@ -29,6 +29,10 @@ Visualize call stack
 2. Decrement
    
 git commit -m "some meaningfull comment"
+
+console.log(Object.entries(jUser));
+It makes every  key value pair in the form of array.
+
 const JSXHead = 
 () => {return <h1> Hello Git</h1>;} ;
 
