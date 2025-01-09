@@ -16,6 +16,8 @@ app.use(express.json());
 
 use easily strings and their types:
 
+const {price:amt} = course;
+
 DSA: Anylanguage, English, Mathematical Expression.
 Any programming language.
 
