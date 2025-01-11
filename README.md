@@ -15,6 +15,7 @@ app.use(express.json());
 2. in string we use lots of method to Object constructor.create
 
 use easily strings and their types:
+mongodb
 
 const {price:amt} = course;
 console.log(amt);
