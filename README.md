@@ -28,7 +28,8 @@ Nullish Caoleshin Operator ??
 let val = 5 ?? 10
 log(val)
 
-Visualize call stack
+
+Visualize call stack:
 
 1. Increment - It has also two type of operator.
 2. Decrement
