@@ -43,7 +43,7 @@ const JSXHead =
 
 console.log( jUser[mySym] )
 
-Session Layer{}
+Session Layer{ }
 root.appendChild(heading)
 
 Presentation layer()
