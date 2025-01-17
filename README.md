@@ -44,6 +44,7 @@ const JSXHead =
 console.log( jUser[mySym] )
 
 Session Layer{ }
+
 root.appendChild(heading)
 
 Presentation layer()
