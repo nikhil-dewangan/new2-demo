@@ -24,6 +24,7 @@ DSA: Anylanguage, English, Mathematical Expression.
 => Any programming language.
 
 Nullish Caoleshin Operator ??
+npm init
 
 let val = 5 ?? 10
 log(val)
