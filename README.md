@@ -28,7 +28,7 @@ Nullish Caoleshin Operator ??
 
 let val = 5 ?? 10
 log(val)
-Prototype new 
+Prototype new ( )
 
 Visualize call stack:
 
