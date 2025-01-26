@@ -15,7 +15,7 @@ app.use(express.json());
 2. in string we use lots of method to Object constructor.create
 
 use easily strings and their types:
-mongodb, sql
+mongodb, sql 
 
 const {price:amt} = course;
 console.log(amt);
@@ -28,7 +28,7 @@ Nullish Caoleshin Operator ??
 
 let val = 5 ?? 10
 log(val)
-Prototype new ( )
+Prototype new ( 27-01-25)
 
 Visualize call stack:
 
