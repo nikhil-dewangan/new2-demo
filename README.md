@@ -16,7 +16,7 @@ app.use(express.json());
 use easily strings and their types:
 mongodb, sql, structured
 
-const {price:amt} = course;
+const {price:amt} = course;  
 console.log(amt);
 
 DSA: Anylanguage, English, Mathematical Expression.
