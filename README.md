@@ -15,7 +15,7 @@ app.use(express.json());
      recatdom.querySelctor
 use easily strings and their types:       
 mongodb, sql, structured
-   
+      
 const {price:amt} = course;  
 console.log(amt);
 
