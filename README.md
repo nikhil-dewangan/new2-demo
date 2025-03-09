@@ -9,6 +9,10 @@ https://github.com/username/repository.git
 SRE, webdev's,cloud engineer.        
 app.use(express.json());          
 ({Parcel,vite,Bundler});                        
+
+e.preventDefault();
+
+
                      
 1. Js is single threade singale langauage                    
 2. in string we use lots of method to Object constructor.create.        
