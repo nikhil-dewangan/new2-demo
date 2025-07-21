@@ -16,7 +16,7 @@ e.stopPropagation();
                                     
 1. Js is single threade singale langauage                                 
 2. in string we use lots of method to Object constructor.create.           
-     recatdom.querySelctor
+     recatdom.querySelctor    
 use easily strings and their types:       
 mongodb, sql, structured
       
