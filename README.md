@@ -10,7 +10,7 @@ SRE, webdev's,cloud engineer.
 app.use(express.json());                                                                                                                                                                                                                                                                                                                    
 ({Parcel,vite,Bundler});                                                               
               
-e.preventDefault();                                                                                                                                                                                       
+e.preventDefault();                                                                                                                                                                                            
 e.stopPropagation();                                                                                                                                               
                                                       
                                             
