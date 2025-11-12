@@ -2,7 +2,7 @@
 This is demo for Git &amp; GitHub Class for new2-demo repository.
 git clone:
 
-git push    
+git push        
 git commit -m "update file"                    
                                                             
 https://github.com/username/repository.git                                                                                                                         
