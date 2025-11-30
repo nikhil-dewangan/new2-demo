@@ -34,8 +34,7 @@ Prototype new ( 27-01-25)
 Visualize call stack:
 
 1. Increment - It has also two type of operator.
-2. Decrement
-   
+2. Decrement 
 git commit -m "some meaningfull comment"
 
 console.log(Object.entries(jUser));
