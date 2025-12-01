@@ -10,7 +10,7 @@ app.use(express.json());
 ({Parcel,vite,Bundler});                                                                      
                                    
 e.preventDefault();                                                                                                                                                                                                 
-e.stopPropagation();                                                                                                                                               
+e.stopPropagation();                                                                                                                                                   
                                                                                             
 1. Js is single threade singale langauage                                    
 2. in string we use lots of method to Object constructor.create.
