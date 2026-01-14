@@ -6,7 +6,7 @@ git commit -m "update file"
     
 https://github.com/username/repository.git                                                                                                                                                     
 SRE, webdev's,cloud engineer.                                                                                                                                                                                                           
-app.use(express.json());                                                                                                                                                         
+app.use(express.json());                                                                                                                                                             
 ({Parcel,vite,Bundler});                                                                                                                                                                  
 e.preventDefault();                                                                                                                                                                                                
 e.stopPropagation();                                                                                                                                                                            
