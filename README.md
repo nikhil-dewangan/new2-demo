@@ -13,8 +13,7 @@ e.stopPropagation();
 2. in string we use lots of method to Object constructor.create.   
 3.  recatdom.querySelctor       
 use easily strings and their types:              
-mongodb, sql, structured       
-      
+mongodb, sql, structured      
 const {price:amt} = course;  
 console.log(amt);
 
